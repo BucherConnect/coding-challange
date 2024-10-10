@@ -1,5 +1,8 @@
-# Coding Challenge 🚚
-### by Bucher Municipal
+![Project Image](https://media.graphassets.com/security=policy:eyJleHBpcnkiOjE3Mjg1ODU2NDYsImNhbGwiOlsicmVhZCIsImNvbnZlcnQiLCJleGlmIl19,signature:b5532a40f7c90872da397c92278fb5f4ac721b894327df68678c0f2be68993b4/resize=fit:scale,width:1400/Kdu36H0HTeq1W3dNOiZk)
+
+
+# Coding Challenge 
+![Bucher Municipal Logo](https://bucher.assetbank-server.com/assetbank-bucher/images/standard/logo.png)
 
 ---
 
@@ -151,13 +154,14 @@ coding-challenge/
     ├── index.html                        # HTML root for the React app
     ├── src/
     │   ├── components/
+    │   │   ├── MapGrid.scss              # SCSS for the grid layout
     │   │   └── MapGrid.tsx               # Renders the grid of maps for each session
     │   ├── services/
     │   │   └── gpsApi.ts                 # API service to fetch GPS data
     │   ├── App.tsx                       # Main React component
     │   ├── main.tsx                      # React app entry point
     │   ├── constants.ts                  # Stores the Mapbox access token
-    │   └── styles.css                    # CSS for the grid layout
+    │   └── styles/                       # Global SCSS 
     └── package.json                      # Frontend dependencies and scripts
 ```
 
@@ -170,3 +174,11 @@ This challenge is designed to test your full-stack development skills, focusing 
 
 - **Backend**: Ability to create a cron job, handle file imports, interact with a database, and expose an API.
 - **Frontend**: Ability to build a responsive UI, fetch and render API data, and work with map-based visualizations using Mapbox.
+
+---
+
+## About Bucher Connect
+
+[![Watch the video](https://img.youtube.com/vi/XxeNA9mi6SE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XxeNA9mi6SE)
+
+Click the image above to watch the Bucher Connect video on YouTube.
