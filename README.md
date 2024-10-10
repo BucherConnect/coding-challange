@@ -115,7 +115,7 @@ Feel free to use this token when configuring **Mapbox** in your frontend.
 
 ### GPS Session Data
 
-In the `/gps-data/` folder, you will find pre-provided CSV files with GPS data. Each file corresponds to a vehicle session and contains latitude and longitude coordinates. These files will be imported into the database by the cron job.
+In the `/gps-data/` folder, you will find pre-provided CSV files with GPS data. Each file corresponds to a vehicle session and contains latitude and longitude coordinates. These files should be imported into the database by the cron job.
 
 Sample CSV format:
 ```csv
