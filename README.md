@@ -1,4 +1,4 @@
-![Project Image](https://media.graphassets.com/security=policy:eyJleHBpcnkiOjE3Mjg1ODU2NDYsImNhbGwiOlsicmVhZCIsImNvbnZlcnQiLCJleGlmIl19,signature:b5532a40f7c90872da397c92278fb5f4ac721b894327df68678c0f2be68993b4/resize=fit:scale,width:1400/Kdu36H0HTeq1W3dNOiZk)
+![Project Image](frontend/src/styles/bucher-connect-hero-unit-background-image-optimized.png)
 
 
 # Coding Challenge 
